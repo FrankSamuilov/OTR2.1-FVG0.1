@@ -1,0 +1,1786 @@
+[
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5433,
+        "expected_profit": 0.03581306062337692,
+        "timestamp": 1746693007.417997,
+        "date": "2025-05-08 10:30:07"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6468,
+        "expected_profit": 0.04043197166987891,
+        "timestamp": 1746693010.6544309,
+        "date": "2025-05-08 10:30:10"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.23,
+        "expected_profit": 0.021738693841841815,
+        "timestamp": 1746693012.9359214,
+        "date": "2025-05-08 10:30:12"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.25,
+        "expected_profit": 0.021738436614013812,
+        "timestamp": 1746693015.1023178,
+        "date": "2025-05-08 10:30:15"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03825,
+        "expected_profit": 0.040160597572362323,
+        "timestamp": 1746693017.5208545,
+        "date": "2025-05-08 10:30:17"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13442,
+        "expected_profit": 0.052156405296830806,
+        "timestamp": 1746693019.7874405,
+        "date": "2025-05-08 10:30:19"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2071,
+        "expected_profit": 0.024187938924380432,
+        "timestamp": 1746693021.9886947,
+        "date": "2025-05-08 10:30:21"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5437,
+        "expected_profit": 0.0358931971586936,
+        "timestamp": 1746693109.772511,
+        "date": "2025-05-08 10:31:49"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.654,
+        "expected_profit": 0.04667875648829595,
+        "timestamp": 1746693112.0073466,
+        "date": "2025-05-08 10:31:52"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6543,
+        "expected_profit": 0.04679195960846602,
+        "timestamp": 1746693421.09726,
+        "date": "2025-05-08 10:37:01"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03837,
+        "expected_profit": 0.04081715626047142,
+        "timestamp": 1746693430.1914318,
+        "date": "2025-05-08 10:37:10"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.544,
+        "expected_profit": 0.035983894199159656,
+        "timestamp": 1746693519.404538,
+        "date": "2025-05-08 10:38:39"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.206,
+        "expected_profit": 0.024582567024996768,
+        "timestamp": 1746693644.4452078,
+        "date": "2025-05-08 10:40:44"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13487,
+        "expected_profit": 0.05351876198243807,
+        "timestamp": 1746693647.3444414,
+        "date": "2025-05-08 10:40:47"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03829,
+        "expected_profit": 0.040989292243405646,
+        "timestamp": 1746693649.673579,
+        "date": "2025-05-08 10:40:49"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5448,
+        "expected_profit": 0.035630788041097546,
+        "timestamp": 1746693736.694366,
+        "date": "2025-05-08 10:42:16"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.29,
+        "expected_profit": 0.021999433931261803,
+        "timestamp": 1746693739.5747652,
+        "date": "2025-05-08 10:42:19"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.29,
+        "expected_profit": 0.021999433931261803,
+        "timestamp": 1746693742.4461834,
+        "date": "2025-05-08 10:42:22"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6766,
+        "expected_profit": 0.0462568375388177,
+        "timestamp": 1746693745.174071,
+        "date": "2025-05-08 10:42:25"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2066,
+        "expected_profit": 0.024579145679843595,
+        "timestamp": 1746693747.490457,
+        "date": "2025-05-08 10:42:27"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13482,
+        "expected_profit": 0.05353148960518783,
+        "timestamp": 1746693749.8140967,
+        "date": "2025-05-08 10:42:29"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03824,
+        "expected_profit": 0.041027196652719713,
+        "timestamp": 1746693752.3660305,
+        "date": "2025-05-08 10:42:32"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5441,
+        "expected_profit": 0.0359475308800805,
+        "timestamp": 1746693842.2873778,
+        "date": "2025-05-08 10:44:02"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6974,
+        "expected_profit": 0.04605202766985044,
+        "timestamp": 1746693844.5285385,
+        "date": "2025-05-08 10:44:04"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.5,
+        "expected_profit": 0.022049855407750188,
+        "timestamp": 1746693847.09514,
+        "date": "2025-05-08 10:44:07"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.5,
+        "expected_profit": 0.022049855407750188,
+        "timestamp": 1746693849.9663236,
+        "date": "2025-05-08 10:44:09"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2071,
+        "expected_profit": 0.024595713832631073,
+        "timestamp": 1746693853.1745577,
+        "date": "2025-05-08 10:44:13"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03829,
+        "expected_profit": 0.040989292243405646,
+        "timestamp": 1746693855.70075,
+        "date": "2025-05-08 10:44:15"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13491,
+        "expected_profit": 0.05350858667683213,
+        "timestamp": 1746693857.9262633,
+        "date": "2025-05-08 10:44:17"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.69,
+        "expected_profit": 0.046585104256277814,
+        "timestamp": 1746693953.6171794,
+        "date": "2025-05-08 10:45:53"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5443,
+        "expected_profit": 0.03589390548600535,
+        "timestamp": 1746693956.1665409,
+        "date": "2025-05-08 10:45:56"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.5,
+        "expected_profit": 0.022049855407750188,
+        "timestamp": 1746693958.3978536,
+        "date": "2025-05-08 10:45:58"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.5,
+        "expected_profit": 0.022049855407750188,
+        "timestamp": 1746693960.6873593,
+        "date": "2025-05-08 10:46:00"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03836,
+        "expected_profit": 0.04093639207507826,
+        "timestamp": 1746693963.6627057,
+        "date": "2025-05-08 10:46:03"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.1347,
+        "expected_profit": 0.05356207445116127,
+        "timestamp": 1746693966.0308683,
+        "date": "2025-05-08 10:46:06"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7029,
+        "expected_profit": 0.045659428218832565,
+        "timestamp": 1746694054.448145,
+        "date": "2025-05-08 10:47:34"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5446,
+        "expected_profit": 0.0357117314602191,
+        "timestamp": 1746694056.6088214,
+        "date": "2025-05-08 10:47:36"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.53,
+        "expected_profit": 0.02207027489699754,
+        "timestamp": 1746694058.7795868,
+        "date": "2025-05-08 10:47:38"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.58,
+        "expected_profit": 0.0220696053258572,
+        "timestamp": 1746694060.9398043,
+        "date": "2025-05-08 10:47:40"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03832,
+        "expected_profit": 0.040966597077244316,
+        "timestamp": 1746694063.3568463,
+        "date": "2025-05-08 10:47:43"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.1347,
+        "expected_profit": 0.05356207445116127,
+        "timestamp": 1746694066.5159464,
+        "date": "2025-05-08 10:47:46"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7013,
+        "expected_profit": 0.04579617191025147,
+        "timestamp": 1746694158.01329,
+        "date": "2025-05-08 10:49:18"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5454,
+        "expected_profit": 0.03556128952927027,
+        "timestamp": 1746694161.0106444,
+        "date": "2025-05-08 10:49:21"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 618.16,
+        "expected_profit": 0.022242104679324866,
+        "timestamp": 1746694163.5383208,
+        "date": "2025-05-08 10:49:23"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 618.16,
+        "expected_profit": 0.022242104679324866,
+        "timestamp": 1746694166.4336052,
+        "date": "2025-05-08 10:49:26"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03851,
+        "expected_profit": 0.04141722001706427,
+        "timestamp": 1746694168.9845426,
+        "date": "2025-05-08 10:49:28"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.135,
+        "expected_profit": 0.053485714285714234,
+        "timestamp": 1746694171.5233011,
+        "date": "2025-05-08 10:49:31"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6812,
+        "expected_profit": 0.04718251372934606,
+        "timestamp": 1746694272.049095,
+        "date": "2025-05-08 10:51:12"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.544,
+        "expected_profit": 0.03621220085687041,
+        "timestamp": 1746694275.2209408,
+        "date": "2025-05-08 10:51:15"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2169,
+        "expected_profit": 0.025190877866776665,
+        "timestamp": 1746694277.810073,
+        "date": "2025-05-08 10:51:17"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.49,
+        "expected_profit": 0.022251264682134862,
+        "timestamp": 1746694280.3687932,
+        "date": "2025-05-08 10:51:20"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.49,
+        "expected_profit": 0.022251264682134862,
+        "timestamp": 1746694282.8830087,
+        "date": "2025-05-08 10:51:22"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13481,
+        "expected_profit": 0.05353403626267652,
+        "timestamp": 1746694285.1421046,
+        "date": "2025-05-08 10:51:25"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03845,
+        "expected_profit": 0.041463124651681275,
+        "timestamp": 1746694287.382483,
+        "date": "2025-05-08 10:51:27"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6712,
+        "expected_profit": 0.047888663987371426,
+        "timestamp": 1746694375.7297618,
+        "date": "2025-05-08 10:52:55"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5433,
+        "expected_profit": 0.03654978772943761,
+        "timestamp": 1746694378.297529,
+        "date": "2025-05-08 10:52:58"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2129,
+        "expected_profit": 0.025214721470855975,
+        "timestamp": 1746694380.6739728,
+        "date": "2025-05-08 10:53:00"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.37,
+        "expected_profit": 0.022252907378997128,
+        "timestamp": 1746694383.3088493,
+        "date": "2025-05-08 10:53:03"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.37,
+        "expected_profit": 0.022252907378997128,
+        "timestamp": 1746694385.6499908,
+        "date": "2025-05-08 10:53:05"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13484,
+        "expected_profit": 0.053526397423401234,
+        "timestamp": 1746694388.1410897,
+        "date": "2025-05-08 10:53:08"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03821,
+        "expected_profit": 0.04164818484316003,
+        "timestamp": 1746694390.4179041,
+        "date": "2025-05-08 10:53:10"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.213,
+        "expected_profit": 0.0252141243302563,
+        "timestamp": 1746694480.2096024,
+        "date": "2025-05-08 10:54:40"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.68,
+        "expected_profit": 0.04728557795013935,
+        "timestamp": 1746694482.9358134,
+        "date": "2025-05-08 10:54:42"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.55,
+        "expected_profit": 0.022250443573105752,
+        "timestamp": 1746694485.861563,
+        "date": "2025-05-08 10:54:45"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.46,
+        "expected_profit": 0.022251675296491198,
+        "timestamp": 1746694487.952944,
+        "date": "2025-05-08 10:54:47"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5426,
+        "expected_profit": 0.037143792654038776,
+        "timestamp": 1746694490.1860685,
+        "date": "2025-05-08 10:54:50"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13457,
+        "expected_profit": 0.053595269588849095,
+        "timestamp": 1746694492.3516998,
+        "date": "2025-05-08 10:54:52"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03831,
+        "expected_profit": 0.041570794645187814,
+        "timestamp": 1746694494.3417165,
+        "date": "2025-05-08 10:54:54"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2104,
+        "expected_profit": 0.025229667545628477,
+        "timestamp": 1746694582.666046,
+        "date": "2025-05-08 10:56:22"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6777,
+        "expected_profit": 0.047436233077314136,
+        "timestamp": 1746694584.766767,
+        "date": "2025-05-08 10:56:24"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.14,
+        "expected_profit": 0.02225605766693369,
+        "timestamp": 1746694586.7268739,
+        "date": "2025-05-08 10:56:26"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.15,
+        "expected_profit": 0.02225592064906661,
+        "timestamp": 1746694588.6589637,
+        "date": "2025-05-08 10:56:28"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5399,
+        "expected_profit": 0.03898750256787242,
+        "timestamp": 1746694590.770768,
+        "date": "2025-05-08 10:56:30"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03824,
+        "expected_profit": 0.04162492528392115,
+        "timestamp": 1746694593.0109274,
+        "date": "2025-05-08 10:56:33"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.21,
+        "expected_profit": 0.02523206205559149,
+        "timestamp": 1746694672.8433256,
+        "date": "2025-05-08 10:57:52"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6758,
+        "expected_profit": 0.04757669794328725,
+        "timestamp": 1746694674.7837863,
+        "date": "2025-05-08 10:57:54"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.01,
+        "expected_profit": 0.022257839303368596,
+        "timestamp": 1746694676.7210348,
+        "date": "2025-05-08 10:57:56"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.01,
+        "expected_profit": 0.022257839303368596,
+        "timestamp": 1746694678.6584694,
+        "date": "2025-05-08 10:57:58"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5403,
+        "expected_profit": 0.038849248078561,
+        "timestamp": 1746694680.5708575,
+        "date": "2025-05-08 10:58:00"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03823,
+        "expected_profit": 0.041632674414259614,
+        "timestamp": 1746694682.5105875,
+        "date": "2025-05-08 10:58:02"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "side": "BUY",
+        "entry_price": 2.2104,
+        "expected_profit": 0.025229667545628477,
+        "timestamp": 1746694762.1691737,
+        "date": "2025-05-08 10:59:22"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6779,
+        "expected_profit": 0.04742199732002021,
+        "timestamp": 1746694764.8268127,
+        "date": "2025-05-08 10:59:24"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5401,
+        "expected_profit": 0.03894472425390003,
+        "timestamp": 1746694766.7715461,
+        "date": "2025-05-08 10:59:26"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.65,
+        "expected_profit": 0.02226277698625064,
+        "timestamp": 1746694768.9278471,
+        "date": "2025-05-08 10:59:28"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03827,
+        "expected_profit": 0.04160170219119794,
+        "timestamp": 1746694773.0075846,
+        "date": "2025-05-08 10:59:33"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6867,
+        "expected_profit": 0.04198679472799208,
+        "timestamp": 1746694855.459889,
+        "date": "2025-05-08 11:00:55"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5403,
+        "expected_profit": 0.03533087438195701,
+        "timestamp": 1746694857.4256494,
+        "date": "2025-05-08 11:00:57"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.56,
+        "expected_profit": 0.01950013902018581,
+        "timestamp": 1746694860.083952,
+        "date": "2025-05-08 11:01:00"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.56,
+        "expected_profit": 0.01950013902018581,
+        "timestamp": 1746694862.0135453,
+        "date": "2025-05-08 11:01:02"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03822,
+        "expected_profit": 0.03939777229573154,
+        "timestamp": 1746694863.9428864,
+        "date": "2025-05-08 11:01:03"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6764,
+        "expected_profit": 0.04301374596876653,
+        "timestamp": 1746694956.3743021,
+        "date": "2025-05-08 11:02:36"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.41,
+        "expected_profit": 0.019608572216544246,
+        "timestamp": 1746694958.3082902,
+        "date": "2025-05-08 11:02:38"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03794,
+        "expected_profit": 0.041522027261089,
+        "timestamp": 1746695581.313072,
+        "date": "2025-05-08 11:13:01"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.6,
+        "expected_profit": 0.019729020898012192,
+        "timestamp": 1746695583.233367,
+        "date": "2025-05-08 11:13:03"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.61,
+        "expected_profit": 0.019728895551019802,
+        "timestamp": 1746695585.152394,
+        "date": "2025-05-08 11:13:05"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7028,
+        "expected_profit": 0.042197859428833036,
+        "timestamp": 1746695672.754759,
+        "date": "2025-05-08 11:14:32"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03796,
+        "expected_profit": 0.041362637362637435,
+        "timestamp": 1746695674.6610491,
+        "date": "2025-05-08 11:14:34"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.68,
+        "expected_profit": 0.019728018235899203,
+        "timestamp": 1746695676.5696056,
+        "date": "2025-05-08 11:14:36"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.69,
+        "expected_profit": 0.019727892921426196,
+        "timestamp": 1746695678.5118215,
+        "date": "2025-05-08 11:14:38"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6981,
+        "expected_profit": 0.04250637809609574,
+        "timestamp": 1746695757.2810524,
+        "date": "2025-05-08 11:15:57"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.95,
+        "expected_profit": 0.019724636171025725,
+        "timestamp": 1746695759.9240186,
+        "date": "2025-05-08 11:15:59"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.95,
+        "expected_profit": 0.019724636171025725,
+        "timestamp": 1746695762.138788,
+        "date": "2025-05-08 11:16:02"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03804,
+        "expected_profit": 0.04102959290971915,
+        "timestamp": 1746695764.0639946,
+        "date": "2025-05-08 11:16:04"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7008,
+        "expected_profit": 0.04233104185402046,
+        "timestamp": 1746695848.2061572,
+        "date": "2025-05-08 11:17:28"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03799,
+        "expected_profit": 0.04112386718309334,
+        "timestamp": 1746695850.1502998,
+        "date": "2025-05-08 11:17:30"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.8,
+        "expected_profit": 0.019726514730405834,
+        "timestamp": 1746695852.0700982,
+        "date": "2025-05-08 11:17:32"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.8,
+        "expected_profit": 0.019726514730405834,
+        "timestamp": 1746695854.0020876,
+        "date": "2025-05-08 11:17:34"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5403,
+        "expected_profit": 0.03583324079215241,
+        "timestamp": 1746695855.9312835,
+        "date": "2025-05-08 11:17:35"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6989,
+        "expected_profit": 0.04246304728392355,
+        "timestamp": 1746695934.9687693,
+        "date": "2025-05-08 11:18:54"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03801,
+        "expected_profit": 0.04105250497989256,
+        "timestamp": 1746695936.8850682,
+        "date": "2025-05-08 11:18:56"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.72,
+        "expected_profit": 0.01972751700239058,
+        "timestamp": 1746695938.794515,
+        "date": "2025-05-08 11:18:58"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.71,
+        "expected_profit": 0.019727642304672083,
+        "timestamp": 1746695940.7254813,
+        "date": "2025-05-08 11:19:00"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.541,
+        "expected_profit": 0.03544916820702391,
+        "timestamp": 1746695942.685772,
+        "date": "2025-05-08 11:19:02"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7015,
+        "expected_profit": 0.04228164906307565,
+        "timestamp": 1746696026.304339,
+        "date": "2025-05-08 11:20:26"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.74,
+        "expected_profit": 0.019727266410017708,
+        "timestamp": 1746696028.2460272,
+        "date": "2025-05-08 11:20:28"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.74,
+        "expected_profit": 0.019727266410017708,
+        "timestamp": 1746696030.1740572,
+        "date": "2025-05-08 11:20:30"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03804,
+        "expected_profit": 0.04102959290971915,
+        "timestamp": 1746696032.103938,
+        "date": "2025-05-08 11:20:32"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5427,
+        "expected_profit": 0.03553312801073987,
+        "timestamp": 1746696034.052938,
+        "date": "2025-05-08 11:20:34"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7023,
+        "expected_profit": 0.04223582503490865,
+        "timestamp": 1746696112.9680367,
+        "date": "2025-05-08 11:21:52"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.7,
+        "expected_profit": 0.019727767611017216,
+        "timestamp": 1746696114.9417636,
+        "date": "2025-05-08 11:21:54"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.69,
+        "expected_profit": 0.019727892921426196,
+        "timestamp": 1746696116.886987,
+        "date": "2025-05-08 11:21:56"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03808,
+        "expected_profit": 0.04099909963985599,
+        "timestamp": 1746696118.7950568,
+        "date": "2025-05-08 11:21:58"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5426,
+        "expected_profit": 0.03556379337580952,
+        "timestamp": 1746696120.7554727,
+        "date": "2025-05-08 11:22:00"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.6978,
+        "expected_profit": 0.04254789768439537,
+        "timestamp": 1746696200.593123,
+        "date": "2025-05-08 11:23:20"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.79,
+        "expected_profit": 0.01972664000018535,
+        "timestamp": 1746696202.5201,
+        "date": "2025-05-08 11:23:22"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.79,
+        "expected_profit": 0.01972664000018535,
+        "timestamp": 1746696204.9650447,
+        "date": "2025-05-08 11:23:24"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7158,
+        "expected_profit": 0.04183110882056053,
+        "timestamp": 1746696292.2289815,
+        "date": "2025-05-08 11:24:52"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.17,
+        "expected_profit": 0.019745029732488678,
+        "timestamp": 1746696294.1573236,
+        "date": "2025-05-08 11:24:54"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 617.17,
+        "expected_profit": 0.019745029732488678,
+        "timestamp": 1746696296.0856798,
+        "date": "2025-05-08 11:24:56"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5424,
+        "expected_profit": 0.03446628739991567,
+        "timestamp": 1746697460.0425415,
+        "date": "2025-05-08 11:44:20"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7095,
+        "expected_profit": 0.04121484556116595,
+        "timestamp": 1746697462.2692387,
+        "date": "2025-05-08 11:44:22"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5428,
+        "expected_profit": 0.034476050110537906,
+        "timestamp": 1746697645.393915,
+        "date": "2025-05-08 11:47:25"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5431,
+        "expected_profit": 0.03454254675539884,
+        "timestamp": 1746697735.238595,
+        "date": "2025-05-08 11:48:55"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13356,
+        "expected_profit": 0.053042467804731895,
+        "timestamp": 1746699163.0281606,
+        "date": "2025-05-08 12:12:43"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7182,
+        "expected_profit": 0.038460522551487096,
+        "timestamp": 1746699165.2555227,
+        "date": "2025-05-08 12:12:45"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7194,
+        "expected_profit": 0.03852747729965072,
+        "timestamp": 1746699256.3781228,
+        "date": "2025-05-08 12:14:16"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13385,
+        "expected_profit": 0.05342301083302197,
+        "timestamp": 1746699466.957351,
+        "date": "2025-05-08 12:17:46"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7249,
+        "expected_profit": 0.038263011623026276,
+        "timestamp": 1746699469.59988,
+        "date": "2025-05-08 12:17:49"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.93,
+        "expected_profit": 0.019275657576340033,
+        "timestamp": 1746699480.716681,
+        "date": "2025-05-08 12:18:00"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13377,
+        "expected_profit": 0.05360674291694693,
+        "timestamp": 1746699870.9560924,
+        "date": "2025-05-08 12:24:30"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7241,
+        "expected_profit": 0.038172755685804985,
+        "timestamp": 1746701003.6121314,
+        "date": "2025-05-08 12:43:23"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.0393,
+        "expected_profit": 0.04224354780079979,
+        "timestamp": 1746701005.534489,
+        "date": "2025-05-08 12:43:25"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.747,
+        "expected_profit": 0.03664253379652208,
+        "timestamp": 1746701085.356977,
+        "date": "2025-05-08 12:44:45"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03941,
+        "expected_profit": 0.04215913292492849,
+        "timestamp": 1746701087.2899547,
+        "date": "2025-05-08 12:44:47"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7771,
+        "expected_profit": 0.03744280003177043,
+        "timestamp": 1746701167.167508,
+        "date": "2025-05-08 12:46:07"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03952,
+        "expected_profit": 0.04890659340659349,
+        "timestamp": 1746701169.0892637,
+        "date": "2025-05-08 12:46:09"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7817,
+        "expected_profit": 0.037411851812676866,
+        "timestamp": 1746701257.2033684,
+        "date": "2025-05-08 12:47:37"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03957,
+        "expected_profit": 0.04886754034441685,
+        "timestamp": 1746701259.1459968,
+        "date": "2025-05-08 12:47:39"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7868,
+        "expected_profit": 0.03737762754832579,
+        "timestamp": 1746701341.5205226,
+        "date": "2025-05-08 12:49:01"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03947,
+        "expected_profit": 0.04294574541242906,
+        "timestamp": 1746701343.4496758,
+        "date": "2025-05-08 12:49:03"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5495,
+        "expected_profit": 0.03305810477057061,
+        "timestamp": 1746701769.528683,
+        "date": "2025-05-08 12:56:09"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 615.8,
+        "expected_profit": 0.01919853384679629,
+        "timestamp": 1746702567.7353373,
+        "date": "2025-05-08 13:09:27"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.762,
+        "expected_profit": 0.03756770714665452,
+        "timestamp": 1746702656.7197876,
+        "date": "2025-05-08 13:10:56"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03967,
+        "expected_profit": 0.0427177067953474,
+        "timestamp": 1746702662.487671,
+        "date": "2025-05-08 13:11:02"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 615.73,
+        "expected_profit": 0.019199352220709003,
+        "timestamp": 1746702664.6718273,
+        "date": "2025-05-08 13:11:04"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 615.73,
+        "expected_profit": 0.019199352220709003,
+        "timestamp": 1746702666.5926766,
+        "date": "2025-05-08 13:11:06"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7668,
+        "expected_profit": 0.03753512644305891,
+        "timestamp": 1746702749.852426,
+        "date": "2025-05-08 13:12:29"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "side": "BUY",
+        "entry_price": 0.18393,
+        "expected_profit": 0.02758097352179606,
+        "timestamp": 1746702751.7692919,
+        "date": "2025-05-08 13:12:31"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "side": "BUY",
+        "entry_price": 0.18393,
+        "expected_profit": 0.027593177292106662,
+        "timestamp": 1746702753.691173,
+        "date": "2025-05-08 13:12:33"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 615.8,
+        "expected_profit": 0.01919853384679629,
+        "timestamp": 1746702755.620268,
+        "date": "2025-05-08 13:12:35"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 615.8,
+        "expected_profit": 0.01919853384679629,
+        "timestamp": 1746702757.5355005,
+        "date": "2025-05-08 13:12:37"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03958,
+        "expected_profit": 0.04278755504222919,
+        "timestamp": 1746702759.4764988,
+        "date": "2025-05-08 13:12:39"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13778,
+        "expected_profit": 0.058793928208531146,
+        "timestamp": 1746705844.9152694,
+        "date": "2025-05-08 14:04:04"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.03,
+        "expected_profit": 0.01918903915816121,
+        "timestamp": 1746705848.8239307,
+        "date": "2025-05-08 14:04:08"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13763,
+        "expected_profit": 0.05912117582337734,
+        "timestamp": 1746705937.425003,
+        "date": "2025-05-08 14:05:37"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.17,
+        "expected_profit": 0.019187400417287927,
+        "timestamp": 1746705941.2609055,
+        "date": "2025-05-08 14:05:41"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.17,
+        "expected_profit": 0.019187400417287927,
+        "timestamp": 1746705943.1746097,
+        "date": "2025-05-08 14:05:43"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.0395,
+        "expected_profit": 0.04328390596745032,
+        "timestamp": 1746705945.0832598,
+        "date": "2025-05-08 14:05:45"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13752,
+        "expected_profit": 0.05914830881741873,
+        "timestamp": 1746706029.151216,
+        "date": "2025-05-08 14:07:09"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13792,
+        "expected_profit": 0.05904985084521044,
+        "timestamp": 1746706124.694217,
+        "date": "2025-05-08 14:08:44"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.11,
+        "expected_profit": 0.01922532259227641,
+        "timestamp": 1746706130.7997742,
+        "date": "2025-05-08 14:08:50"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13832,
+        "expected_profit": 0.059024258448318545,
+        "timestamp": 1746706216.1765912,
+        "date": "2025-05-08 14:10:16"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5542,
+        "expected_profit": 0.040208403361344514,
+        "timestamp": 1746706310.9446049,
+        "date": "2025-05-08 14:11:50"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5536,
+        "expected_profit": 0.04023117258464077,
+        "timestamp": 1746706418.8196526,
+        "date": "2025-05-08 14:13:38"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5552,
+        "expected_profit": 0.04629921778509674,
+        "timestamp": 1746706886.126456,
+        "date": "2025-05-08 14:21:26"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13841,
+        "expected_profit": 0.059951824290152396,
+        "timestamp": 1746706888.072353,
+        "date": "2025-05-08 14:21:28"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.28,
+        "expected_profit": 0.019258207053088873,
+        "timestamp": 1746706890.0290124,
+        "date": "2025-05-08 14:21:30"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.25,
+        "expected_profit": 0.01925856154427584,
+        "timestamp": 1746706892.3779335,
+        "date": "2025-05-08 14:21:32"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5533,
+        "expected_profit": 0.04037167127107484,
+        "timestamp": 1746706978.2499692,
+        "date": "2025-05-08 14:22:58"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5549,
+        "expected_profit": 0.04631062482300542,
+        "timestamp": 1746707072.5774765,
+        "date": "2025-05-08 14:24:32"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13906,
+        "expected_profit": 0.05978938587659998,
+        "timestamp": 1746707074.7306447,
+        "date": "2025-05-08 14:24:34"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.42,
+        "expected_profit": 0.019256553218598732,
+        "timestamp": 1746707076.64534,
+        "date": "2025-05-08 14:24:36"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.43,
+        "expected_profit": 0.019256435116402897,
+        "timestamp": 1746707078.574122,
+        "date": "2025-05-08 14:24:38"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7943,
+        "expected_profit": 0.0440078885245161,
+        "timestamp": 1746707080.4950874,
+        "date": "2025-05-08 14:24:40"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03994,
+        "expected_profit": 0.04444151942199019,
+        "timestamp": 1746707082.395745,
+        "date": "2025-05-08 14:24:42"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5546,
+        "expected_profit": 0.0463478027922312,
+        "timestamp": 1746707170.208837,
+        "date": "2025-05-08 14:26:10"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13928,
+        "expected_profit": 0.0598680889472388,
+        "timestamp": 1746707172.15435,
+        "date": "2025-05-08 14:26:12"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.41,
+        "expected_profit": 0.01925667132463898,
+        "timestamp": 1746707174.0580814,
+        "date": "2025-05-08 14:26:14"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.41,
+        "expected_profit": 0.01925667132463898,
+        "timestamp": 1746707176.0053658,
+        "date": "2025-05-08 14:26:16"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03995,
+        "expected_profit": 0.04475522975147512,
+        "timestamp": 1746707177.9012516,
+        "date": "2025-05-08 14:26:17"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5533,
+        "expected_profit": 0.040397490382381024,
+        "timestamp": 1746707258.2612185,
+        "date": "2025-05-08 14:27:38"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13818,
+        "expected_profit": 0.06014406881293545,
+        "timestamp": 1746707260.1645787,
+        "date": "2025-05-08 14:27:40"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.55,
+        "expected_profit": 0.01925501818984856,
+        "timestamp": 1746707262.152289,
+        "date": "2025-05-08 14:27:42"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.55,
+        "expected_profit": 0.01925501818984856,
+        "timestamp": 1746707264.1010637,
+        "date": "2025-05-08 14:27:44"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03988,
+        "expected_profit": 0.04481272388594361,
+        "timestamp": 1746707266.0244079,
+        "date": "2025-05-08 14:27:46"
+    },
+    {
+        "symbol": "SUSDT",
+        "side": "BUY",
+        "entry_price": 0.5526,
+        "expected_profit": 0.04042434207124759,
+        "timestamp": 1746707350.781577,
+        "date": "2025-05-08 14:29:10"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.138,
+        "expected_profit": 0.06018964803312623,
+        "timestamp": 1746707352.7048109,
+        "date": "2025-05-08 14:29:12"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.85,
+        "expected_profit": 0.01933512238757422,
+        "timestamp": 1746707354.6441097,
+        "date": "2025-05-08 14:29:14"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.88,
+        "expected_profit": 0.01933476450689567,
+        "timestamp": 1746707356.5743415,
+        "date": "2025-05-08 14:29:16"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.04003,
+        "expected_profit": 0.051189393669033974,
+        "timestamp": 1746707358.4911616,
+        "date": "2025-05-08 14:29:18"
+    },
+    {
+        "symbol": "BBUSDT",
+        "side": "BUY",
+        "entry_price": 0.13877,
+        "expected_profit": 0.058688094380217985,
+        "timestamp": 1746707444.9464948,
+        "date": "2025-05-08 14:30:44"
+    },
+    {
+        "symbol": "ETHUSDC",
+        "side": "BUY",
+        "entry_price": 1968.51,
+        "expected_profit": 0.02642352700410827,
+        "timestamp": 1746707447.1242576,
+        "date": "2025-05-08 14:30:47"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.93,
+        "expected_profit": 0.026362255401892416,
+        "timestamp": 1746707449.3116221,
+        "date": "2025-05-08 14:30:49"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 614.92,
+        "expected_profit": 0.026362371876481012,
+        "timestamp": 1746707451.505865,
+        "date": "2025-05-08 14:30:51"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.04033,
+        "expected_profit": 0.0506591335765648,
+        "timestamp": 1746707453.731505,
+        "date": "2025-05-08 14:30:53"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.03986,
+        "expected_profit": 0.049667550713210544,
+        "timestamp": 1746711387.2673237,
+        "date": "2025-05-08 15:36:27"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.83,
+        "expected_profit": 0.02715542184579683,
+        "timestamp": 1746711389.198125,
+        "date": "2025-05-08 15:36:29"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 616.83,
+        "expected_profit": 0.02715542184579683,
+        "timestamp": 1746711391.2044032,
+        "date": "2025-05-08 15:36:31"
+    },
+    {
+        "symbol": "ETHUSDC",
+        "side": "BUY",
+        "entry_price": 1990.11,
+        "expected_profit": 0.027814631926304192,
+        "timestamp": 1746714873.58282,
+        "date": "2025-05-08 16:34:33"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 618.99,
+        "expected_profit": 0.026619921392683467,
+        "timestamp": 1746717326.2538657,
+        "date": "2025-05-08 17:15:26"
+    },
+    {
+        "symbol": "ETHUSDC",
+        "side": "BUY",
+        "entry_price": 2006.89,
+        "expected_profit": 0.03605067257583342,
+        "timestamp": 1746717705.3599694,
+        "date": "2025-05-08 17:21:45"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7845,
+        "expected_profit": 0.04564621859841837,
+        "timestamp": 1746717707.290169,
+        "date": "2025-05-08 17:21:47"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "side": "BUY",
+        "entry_price": 3.7779,
+        "expected_profit": 0.04569242020321192,
+        "timestamp": 1746717801.4224393,
+        "date": "2025-05-08 17:23:21"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 619.05,
+        "expected_profit": 0.026792278491236568,
+        "timestamp": 1746717805.4112036,
+        "date": "2025-05-08 17:23:25"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 621.07,
+        "expected_profit": 0.03322762053506735,
+        "timestamp": 1746717900.9689748,
+        "date": "2025-05-08 17:25:00"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 621.07,
+        "expected_profit": 0.03322762053506735,
+        "timestamp": 1746717902.9598186,
+        "date": "2025-05-08 17:25:02"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.04065,
+        "expected_profit": 0.0584498330697593,
+        "timestamp": 1746717905.0574298,
+        "date": "2025-05-08 17:25:05"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 622.16,
+        "expected_profit": 0.03329621778504381,
+        "timestamp": 1746717986.8021874,
+        "date": "2025-05-08 17:26:26"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 621.87,
+        "expected_profit": 0.0332999933380656,
+        "timestamp": 1746717988.745515,
+        "date": "2025-05-08 17:26:28"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.04069,
+        "expected_profit": 0.05841006916406281,
+        "timestamp": 1746717990.665413,
+        "date": "2025-05-08 17:26:30"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 622.32,
+        "expected_profit": 0.03330790957339355,
+        "timestamp": 1746718073.0392973,
+        "date": "2025-05-08 17:27:53"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "side": "BUY",
+        "entry_price": 622.26,
+        "expected_profit": 0.03330869136006537,
+        "timestamp": 1746718074.9732456,
+        "date": "2025-05-08 17:27:54"
+    },
+    {
+        "symbol": "VINEUSDT",
+        "side": "BUY",
+        "entry_price": 0.04087,
+        "expected_profit": 0.05851172707889128,
+        "timestamp": 1746718076.9574804,
+        "date": "2025-05-08 17:27:56"
+    }
+]
